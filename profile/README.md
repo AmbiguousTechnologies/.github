@@ -22,7 +22,7 @@ In 2021, Ambiguous Technologies secured a $15 million Series A funding round fro
 The company expanded rapidly, from a team of 5 to "somewhere between 100 and 1000 employees" 📈
 In 2024, riding high on a wave of confusion 😕 and questionable success 🤔 Ambiguous Technologies closed a $60 million Series B funding round 💲
 The pitch deck consisted entirely of abstract art ️🖌️ and fortune cookie 🥠 messages, which investors described as "deeply compelling" and "clearly disruptive." 💪
-Today, Ambiguous Technologies continues to push the boundaries of what's possible (and legal) in payment processing
+Today, Ambiguous Technologies continues to push the boundaries of what's possible (and legal) in payment processing 🤡
 
 ## Core Values
 
