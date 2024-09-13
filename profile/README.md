@@ -12,7 +12,7 @@
 ## Backstory
 
 Ambiguous Technologies burst 💥 onto the scene in 2019 like a confetti cannon 🎊 at a library ️🏛️
-Founded by two individuals who met at a "How to Start a Start-up" seminar and bonded over their mutual inability to decide what to have for lunch, the company set out to revolutionize the payment processing industry.
+Founded by two individuals who met at a "How to Start a Start-up" seminar and bonded over their mutual inability to decide what to have for lunch, the company set out to revolutionize the payment processing industry 🥪
 Or maybe it was the processed cheese industry 🧀 The details are a bit... ambiguous.
 The company's first product, the "Maybe Money Transfer" system, quickly gained notoriety for its innovative approach to transactions 🤑
 It would process payments correctly about 60% of the time, refund them 30% of the time, and donate the remaining 10% to a random charity.
