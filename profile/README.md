@@ -30,7 +30,7 @@ Today, Ambiguous Technologies continues to push the boundaries of what's possibl
 - **Ethical Innovation** (*We think. We're not entirely sure what this means.*)
 - **Collaborative Problem-Creating** (*Solving is so last year*)
 - **Continuous Learning** (*Mostly learning how to explain to regulators what we do*)
-- **Diversity and Inclusion** (*Of payment methods, interpretations, and excuses*)
+- **Disruptive Design** (*Of payment methods, interpretations, and excuses*)
 
 ## Notable Products and Services
 
